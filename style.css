@@ -1,0 +1,63 @@
+html,
+body {	height: 100%;
+	font-size: 1rem;
+	font-family: 'Poppins', sans-serif;
+}
+.gradient {background: rgb(236,100,76);
+	background: linear-gradient(0deg, rgba(236,100,76,1) 0%, rgba(31,10,6,1) 100%);
+}
+
+.page-header{
+	margin-top: 4rem;
+	font-size: 1.25rem;
+	color:white;
+}
+
+.feature{
+	color: #fff;
+}
+.feature ul{
+	padding-left: 2rem;
+	list-style-type: none;
+}
+.feature ul li{
+	padding-left: 2rem;
+	background-image: url(img/coffee_icon-icons.com_50414.png);
+	background-repeat: no-repeat;
+	line-height: 1.85rem;
+	margin-bottom: 1rem;
+
+}
+.icon{
+
+	color: #fff;
+	height: 5rem;
+	width: 5rem;
+	font-size: 1.75rem;
+	border-radius: 100%;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+}
+.gallery{
+	background-color:whitesmoke;
+
+}
+.gallery img{
+	border-radius: 5%;
+}
+.services{
+	color: white;}
+
+	footer{
+		color: #fff;
+		font-size: 1rem;
+		margin: 0;
+		padding: 1rem;
+
+	}
+	a{
+		color:white;
+		text-decoration:none;
+		
+	}
